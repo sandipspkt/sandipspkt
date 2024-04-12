@@ -5,6 +5,7 @@
 👯 I’m looking to collaborate on more projects.<br>
 🌱 I’m currently learning Flutter.<br>
 ⚡ Exciting Fact: Love to explore new tech!<br>
+⚡Love Music and Travels
 
 ### 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sandip.sapkota.1276)
