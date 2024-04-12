@@ -1,31 +1,34 @@
-# 💫 Hi. I'm Sandip Sapkota .
-# 💫 About Me:
-🔭 I’m currently working on Android App Development.<br>👯 I’m looking to collaborate on more projects.<br>🌱 I’m currently learning Flutter.<br>⚡.
+# 💫 Hi, I'm Sandip Sapkota!
 
+### About Me:
+🔭 I’m currently working on Android App Development.<br>
+👯 I’m looking to collaborate on more projects.<br>
+🌱 I’m currently learning Flutter.<br>
+⚡ Exciting Fact: Love to explore new tech!<br>
 
+### 🌐 Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sandip.sapkota.1276)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sandipspkt)
 
+### 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sandipspkt&show_icons=true&theme=vue)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sandip.sapkota.1276) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sandipspkt)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sandipspkt&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br>
-<br>
-# 📊 GitHub Stats:
-
-<br><br>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aclabis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br><br>
-
-<!-- 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nishansr&limit=5&theme=onestar&combine_all_yearly_contributions=true) -->
-<!-- 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> -->
-
----
-[![](https://visitcount.itsvg.in/api?id=nishansr&icon=2&color=3)](https://visitcount.itsvg.in)
+### 🔝 Visitor Count
+![Visitor Count](https://visitcount.itsvg.in/api?id=yourusername&label=Profile%20Views&color=0&icon=5&pretty=true)
